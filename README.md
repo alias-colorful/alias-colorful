@@ -1,1 +1,1 @@
-<img src="https://s.hey-bismuth.workers.dev/" alt="isnt it colorful">
+[![isnt it colorful](https://s.hey-bismuth.workers.dev/)](https://github.com/alias-colorful)
